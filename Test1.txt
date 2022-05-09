@@ -1,0 +1,3 @@
+second program in git.
+Testing second program.
+Please check the code is correct or not.
